@@ -37,7 +37,7 @@ export const links = [
 export const experiencesData = [
   {
     title: "Frontend Developer",
-    location: "India Remote",
+    location: "cognifyz Remote, India",
     description:
       "I learned HTML, CSS, and JavaScript during my internship and soon after, I secured a job as a Frontend Developer",
     icon: React.createElement(LuGraduationCap),
